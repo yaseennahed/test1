@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 /*
-//save to fire
+//yaseen
         save.setOnClickListener {
             val name = PersonName.text.toString()
             val id = PersonID.text.toString()
